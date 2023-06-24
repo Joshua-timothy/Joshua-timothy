@@ -1,5 +1,5 @@
 
-<h2 align="left">Hey there 👋  I'm a frontend developer.</h2>
+<h2 align="left">Hey there 👋 </br>  I'm a frontend developer.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-timothy&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-timothy" /> </p>
 
 <p align="center" style="display:flex; gap:1rem;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshua-timothy" alt="joshua-timothy" /></a> </p>
